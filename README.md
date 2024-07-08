@@ -1,5 +1,5 @@
-# Java_Intern_Task
-Task 1 - Online Quiz Application
+# Java_Intern_Project
+Project 1 - Online Quiz Application
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
